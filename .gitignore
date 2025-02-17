@@ -1,0 +1,11 @@
+﻿Analyzer/.vs
+Analyzer/bin
+Analyzer/obj
+UnityProject/.vs
+UnityProject/Library
+UnityProject/Logs
+UnityProject/UserSettings
+UnityProject/Temp
+UnityProject/obj
+UnityProject/*.csproj
+UnityProject/*.sln
